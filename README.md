@@ -1,4 +1,4 @@
-👋 Hi, I’m Marcin Mennemann ([@mennemann](https://github.com/mennemann)). I am a CS Student at [TU Dortmund](tu-dortmund.de), Germany
+👋 Hi, I’m Marcin Mennemann ([@mennemann](https://github.com/mennemann)). I am a CS Student at [TU Dortmund](https://tu-dortmund.de), Germany
 - 👀 I’m currently interested in ML and Genetic Algorithms, CGI, Low-level/Embedded Programming, computer vision and web-tech
 - 💞️ My favourite programming languages are Python, Rust, C/C++ and JavaScript
 - 🌱 I’m currently learning how to create my own 3D render engine
